@@ -10,3 +10,5 @@ you need some programs and library in http://www.airspayce.com/mikem/bcm2835/
 This program runs on Raspberry Pi with High-Precision AD/DA Board
 
 how to use: ./read_shield.py 
+
+usage: python3 read_shield_main.py
