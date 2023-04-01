@@ -14,3 +14,5 @@ how to use: ./read_shield.py
 usage: python3 read_shield_main.py : with subroutine
 
 usage: python3 read_shield_main2.py : with class
+
+![High-Precision-AD-DA-Board-intro](https://user-images.githubusercontent.com/1296728/229272678-46d74fd7-3a19-47d8-889f-fecb6ff60b0f.jpg)
